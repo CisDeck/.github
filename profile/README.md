@@ -13,6 +13,8 @@ Images:
 <img src="https://github.com/user-attachments/assets/9bfa8628-f640-4805-8b57-b1044274ed63" width="400" height="500">
 <img src="https://github.com/user-attachments/assets/56e1524d-17e3-4fe5-9542-ea4ddf31f7c5" width="400" height="500">
 
+### You want to build your own Cisdeck?
+[How to build your own Cisdeck](https://github.com/CisDeck/cisdeck-arduino/wiki)
 
 ### Software
 There are 2 software for this project.
